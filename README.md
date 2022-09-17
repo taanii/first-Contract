@@ -1,1 +1,1 @@
-# first-Contract
+# Smart contract using Hardhat
