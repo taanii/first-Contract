@@ -4,7 +4,7 @@
 
 - Metamask
 - Alchemy
-- Goerli testnetwork
+- Goerli testnet network
 
 ### Link to public account
 
